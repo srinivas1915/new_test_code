@@ -3,8 +3,8 @@
 
 void myPrintHelloMake(void) {
 
- int b=0;
- printf("Hello I am srini");
+ int c=0,d=0,e=0;
+ printf("Hello I am mass, this is updated code");
 
   return;
 }
